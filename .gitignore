@@ -1,0 +1,8 @@
+# Generated backup archives
+backups/*.tar.gz
+
+# Runtime logs
+logs/*.log
+
+# Scheduled task output
+reports/cron_output.txt
